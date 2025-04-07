@@ -1,3 +1,16 @@
+# Bodegon El Negro
+
+A pub management application built with Laravel. This project allows for managing restaurant inventory, orders, and customer information for a local pub and restaurant.
+
+## About the Project
+
+"Bodegon El Negro" is a restaurant/pub application (also known as "pub-app" in our repository) designed to streamline the operation of a pub business. The project aims to provide an intuitive interface for managing:
+
+- Menu items and inventory
+- Customer orders and reservations
+- Employee scheduling
+- Reporting and analytics
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
